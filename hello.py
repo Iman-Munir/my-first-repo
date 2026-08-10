@@ -1,1 +1,2 @@
-print("Hello, GitHub!")
+name = "Iman"
+print("Hello", name)
