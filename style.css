@@ -72,3 +72,16 @@ nav a:hover {
 .project-card p {
     margin: 0;
 }
+.project-button {
+    display: inline-block;
+    background-color: #243b55;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 15px;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.project-button:hover {
+    background-color: #141e30;
+}
