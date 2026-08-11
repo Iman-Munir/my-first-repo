@@ -56,3 +56,19 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+.project-card {
+    background-color: #f4f7fb;
+    padding: 20px;
+    margin: 15px auto;
+    max-width: 550px;
+    border-radius: 10px;
+}
+
+.project-card h3 {
+    color: #243b55;
+    margin-bottom: 10px;
+}
+
+.project-card p {
+    margin: 0;
+}
