@@ -1,4 +1,10 @@
-# my-first-repo
-This is my first Git Repository.
-<br>
-Author-Iman Malik
+# My First Website
+
+This is my first website project.
+
+## Technologies
+- HTML
+- CSS
+
+## About
+A simple website created while learning web development and GitHub.
